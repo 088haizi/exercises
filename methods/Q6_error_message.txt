@@ -1,0 +1,1 @@
+only 1 argument given, but method calculate_product requires 2 arguments.
